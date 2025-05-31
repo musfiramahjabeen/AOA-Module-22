@@ -1,4 +1,4 @@
-# AOA-Module-22
+# AOA Module-22
 ## Day 1 - DYNAMIC PROGRAMMING-1
 ### To Write a Python Program to find longest common subsequence using Dynamic Programming
 
