@@ -8,7 +8,7 @@ def lcs(x, y):
     dp = [[0]*(n+1) for _ in range(m+1)]
 
     # Build dp table (lengths only)
-    for i in range(m):
+    for i in range(m): 
         for j in range(n):
             if x[i] == y[j]:
                 dp[i+1][j+1] = dp[i][j] + 1
